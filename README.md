@@ -1,3 +1,6 @@
+# HowDidYouGetYourStart
+https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma
+
 This is what I tell people to do, who ask me "how do I learn to be a Linux sysadmin?".
 
 1) Set up a KVM hypervisor.
