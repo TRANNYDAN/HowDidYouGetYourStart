@@ -10,6 +10,7 @@ You'll need a computer with support for virtualization, preferably with multiple
 
 ##1.	Your first server
 1.	KVM - Install a minimal operating system with support for virtualization.
+
 2.	Power management with NUT - Install the NUT server and configure monitoring of the UPS. Unplug the UPS and verify that the system shuts down safely when its battery reaches the charge level you defined, and that the system comes back online when you plug the UPS back in.
 
 ##2.	Your first VMs
