@@ -57,6 +57,7 @@ You'll need a computer with support for virtualization, preferably with multiple
 12.	Track issues with RT4 - Set up another new VM and install Best Practical's RT ticket tracking system.
 
 Core concepts are Storage, Security, and Networking.
+
 1.	Block Storage
     1.	RAID 0, 1, 5, 6, 10 - You should understand the basics of how each array type work, how their performance changes in relation to the number of disks in the array, and how each type respond to the loss of one or more disks. Different deployment types will call for different storage arrays.
     
