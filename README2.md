@@ -9,9 +9,9 @@ So... I have a slightly different list of projects that I'd suggest someone unde
 You'll need a computer with support for virtualization, preferably with multiple hard drives for a RAID (or zfs, or btrfs) storage array, and with a UPS.
 
 1.	Your first server
-    # 1.	KVM - Install a minimal operating system with support for virtualization.
+    1.	KVM - Install a minimal operating system with support for virtualization.
     
-    # 2.	Power management with NUT - Install the NUT server and configure monitoring of the UPS. Unplug the UPS and verify that the system shuts down safely when its battery reaches the charge level you defined, and that the system comes back online when you plug the UPS back in.
+    2.	Power management with NUT - Install the NUT server and configure monitoring of the UPS. Unplug the UPS and verify that the system shuts down safely when its battery reaches the charge level you defined, and that the system comes back online when you plug the UPS back in.
 
 2.	Your first VMs
     1.  Documenting your work with a Wiki - Create a new VM and install a minimal OS. Here, install the simplest wiki you can find. I like MoinMoin. For all of the remaining exercises, document everything that you do. Document the location of useful how-tos and other documentation that you find. Document the steps you take setting up a service. Document the details you'd like to come back and revisit later. Records are your friends.
